@@ -1,4 +1,8 @@
-# <div align="center" style="font-size: 2.5em; font-weight: bold;">✨ <span class="animated-text">I'm Luke Aaron Velasquez</span></div>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=70&lines=I'm+Luke+Aaron+T.+Velasquez| " alt="Typing SVG" />
+
+</div>
 
 <div align="center" style="font-size: 1.2em;">
   
@@ -8,23 +12,7 @@
 
 </div>
 
-<style>
-.animated-text {
-  background: linear-gradient(90deg, #ff8a00, #e52e71, #7928ca, #0070f3);
-  background-size: 300% 300%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradient 4s ease infinite;
-  display: inline-block;
-}
-@keyframes gradient {
-  0% { background-position: 0% 50% }
-  50% { background-position: 100% 50% }
-  100% { background-position: 0% 50% }
-}
-</style>
-
-## <div align="center" style="font-size: 1.8em; font-weight: bold;">✨ Development Tools</div>
+## <div align="center" style="font-size: 1.8em; font-weight: bold;">🛠️ Development Stack</div>
 
 <div align="center" style="font-size: 1.3em; margin: 15px 0;">
   
