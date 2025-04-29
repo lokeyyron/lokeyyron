@@ -28,7 +28,6 @@ Building fast, optimized websites that rank well and convert visitors
 
 [![Email](https://img.shields.io/badge/Email-lukevels8@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lukevels8@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@lokeyyron-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lokeyyron)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio_Coming_Soon-4285F4?logo=google&logoColor=white)](#)
 
 ## 👨‍💻 Daily Coding Habit
 
