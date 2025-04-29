@@ -1,8 +1,5 @@
 # 💻 Luke Aaron Velasquez
 
-**18 y/o Web Developer**  
-Building fast, optimized websites that rank well and convert visitors  
-
 🌐 **Currently developing:** [StreamSEOPros.com](https://streamseopros.com/)  
 📚 **Studying:** Advanced Javascript & SEO techniques  
 🚀 **Skills:** Website Design and Backend
