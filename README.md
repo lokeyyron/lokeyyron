@@ -1,4 +1,4 @@
-# <div align="center" style="font-size: 2.5em; font-weight: bold;">💻 <span style="animation: pulse 2s infinite;">Luke Aaron Velasquez</span></div>
+# <div align="center" style="font-size: 2.5em; font-weight: bold;">✨ <span class="animated-text">I'm Luke Aaron Velasquez</span></div>
 
 <div align="center" style="font-size: 1.2em;">
   
@@ -9,35 +9,35 @@
 </div>
 
 <style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  .shake {
-    animation: shake 0.5s infinite;
-  }
-  @keyframes shake {
-    0% { transform: translateX(0); }
-    25% { transform: translateX(-3px); }
-    75% { transform: translateX(3px); }
-    100% { transform: translateX(0); }
-  }
+.animated-text {
+  background: linear-gradient(90deg, #ff8a00, #e52e71, #7928ca, #0070f3);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient 4s ease infinite;
+  display: inline-block;
+}
+@keyframes gradient {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
 </style>
 
-## <div align="center" style="font-size: 1.8em;">🛠️ Tech Stack</div>
+## <div align="center" style="font-size: 1.8em; font-weight: bold;">✨ Development Tools</div>
 
-<div align="center">
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+<div align="center" style="font-size: 1.3em; margin: 15px 0;">
+  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br>
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)
 
 </div>
 
-## <div align="center" style="font-size: 1.8em;">📈 My GitHub Stats</div>
+## <div align="center" style="font-size: 1.8em; font-weight: bold;">💻 Languages Used</div>
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 </div>
 
-## <div align="center" style="font-size: 1.8em;">📫 Let's Connect</div>
+## <div align="center" style="font-size: 1.8em; font-weight: bold;">📫 Let's Connect</div>
 
 <div align="center">
 
