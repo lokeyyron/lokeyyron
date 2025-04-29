@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=70&lines=I'm+Luke+Aaron+T.+Velasquez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=70&lines=I'm+Luke+Aaron+Velasquez" alt="Typing SVG" />
 </div>
 
 
@@ -21,6 +21,9 @@
 <br>
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+<br>
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
 
 </div>
 
