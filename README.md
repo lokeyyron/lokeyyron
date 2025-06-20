@@ -17,7 +17,7 @@
 
 🎞️ Want to see my work?  
 Check out the videos I’ve edited here:  
-👉 [Google Drive Video Portfolio]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hms?usp=drive_link))
+👉 [Google Drive Video Portfolio](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hms?usp=sharing)
 
 </div>
 
