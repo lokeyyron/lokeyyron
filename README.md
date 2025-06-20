@@ -7,7 +7,17 @@
   
 🌐 **Currently developing:** [StreamSEOPros.com](https://streamseopros.com/)  
 📚 **Studying:** Advanced Javascript & SEO techniques  
-🚀 **Skills:** Website Design and Backend
+🚀 **Skills:** Website Design and Video Editing
+
+</div>
+
+## <div align="center" style="font-size: 1.6em; font-weight: bold;">📽️ Video Editing Portfolio</div>
+
+<div align="center">
+
+🎞️ Want to see my work?  
+Check out the videos I’ve edited here:  
+👉 [Google Drive Video Portfolio]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hms?usp=drive_link))
 
 </div>
 
