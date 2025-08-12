@@ -7,7 +7,7 @@
   
 🌐 **Currently developing:** [StreamSEOPros.com](https://streamseopros.com/)  
 📚 **Studying:** Advanced Javascript & SEO techniques  
-🚀 **Skills:** Website Design and Video Editing
+🚀 **Skills:** Website Development and Video Editing
 
 </div>
 
@@ -18,6 +18,15 @@
 🎞️ Want to see my work?  
 Check out the videos I’ve edited here:  
 👉 [Google Drive Video Portfolio](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hms?usp=sharing)
+
+</div>
+
+## <div align="center"> 🏆 My Hackathon Experience/s </div>
+
+<div align="center">
+
+📜 Want to see my hackathon experience/s?  
+👉 [📂 View my Hackathon Certificate/s](https://drive.google.com/drive/folders/1kyYsVPJmTJ3o6AiFIs3x2dPCG0PluuV0?usp=drive_link)
 
 </div>
 
