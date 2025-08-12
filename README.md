@@ -21,6 +21,16 @@ Check out the videos I’ve edited here:
 
 </div>
 
+## <div align="center"> 🏆 My Hackathon Experience/s </div>
+
+<div align="center">
+
+📜 Want to see my hackathon experience/s?  
+👉 [📂 View my Hackathon Certificate/s](https://drive.google.com/drive/folders/1kyYsVPJmTJ3o6AiFIs3x2dPCG0PluuV0?usp=drive_link)
+
+</div>
+
+
 ## <div align="center" style="font-size: 1.8em; font-weight: bold;">🛠️ Development Stack</div>
 
 <div align="center" style="font-size: 1.3em; margin: 15px 0;">
