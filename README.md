@@ -5,7 +5,6 @@
 
 <div align="center" style="font-size: 1.2em;">
   
-🌐 **Currently developing:** [StreamSEOPros.com](https://streamseopros.com/)  
 📚 **Studying:** Advanced Javascript & SEO techniques  
 🚀 **Skills:** Website Design and Video Editing
 
