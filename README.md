@@ -43,6 +43,7 @@ Check out the videos I’ve edited here:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 <br>
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 </div>
 
