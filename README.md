@@ -3,21 +3,19 @@
 </div>
 <div align="center" style="font-size: 1.2em;">
 
-💼 **Currently:** GHL Automation & Video Editor at [Hazelbridge Digital Growth](https://hazelbridge.com)
+💼 Currently: GHL Automation & Video Editor at Hazelbridge Digital Growth
 📚 **Studying:** Advanced Javascript & SEO techniques  
 🚀 **Skills:** Website Design and Video Editing
 </div>
-
 ## <div align="center" style="font-size: 1.6em; font-weight: bold;">📽️ Video Editing Portfolio</div>
 <div align="center">
 🎞️ Want to see my work?  
-Check out the videos I've edited here:  
+Check out the videos I’ve edited here:  
 👉 [Google Drive Video Portfolio](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hms?usp=sharing)
 </div>
+## <div align="center"> 🏆 My Hackathon Experience/s </div>
+<div align="center">
 
-## <div align="center" style="font-size: 1.8em; font-weight: bold;">🛠️ Development Stack</div>
-<div align="center" style="font-size: 1.3em; margin: 15px 0;">
-  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -29,14 +27,9 @@ Check out the videos I've edited here:
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
 </div>
-
 ## <div align="center" style="font-size: 1.8em; font-weight: bold;">💻 Languages Used</div>
 <div align="center">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeyyron&layout=compact&theme=radical&hide_border=true)](https://github.com/lokeyyron)
 </div>
-
 ## <div align="center" style="font-size: 1.8em; font-weight: bold;">📫 Let's Connect</div>
-[![Email](https://img.shields.io/badge/Email-lukevels8@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lukevels8@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@lokeyyron-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lokeyyron)
-
-</div>
+<div align="center">
