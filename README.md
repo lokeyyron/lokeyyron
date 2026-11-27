@@ -1,52 +1,55 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=70&lines=I'm+Luke+Aaron+Velasquez" alt="Typing SVG" />
-</div>
+# Hey, I'm Luke Aaron Velasquez
 
-<div align="center">
+**Full Stack Developer · GoHighLevel Automation · Founder & CTO of Verdant**
 
-💼 **Currently:** GHL Automation & Video Editor at Hazelbridge Digital Growth<br>
-📚 **Studying:** Advanced Javascript & SEO techniques<br>
-🚀 **Skills:** Website Design and Video Editing
+I build business websites, landing pages, and tools that help teams get their work done. I'm based in Iligan City, Philippines, and studying Computer Science at MSU–IIT.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/luke-aaron-velasquez-3ba080363/) · [Projects](https://github.com/lokeyyron?tab=repositories)
 
----
+## What I'm working on
 
-<div align="center">
+- **Hazelbridge Digital Limited** — Full Stack Developer since January 2026. I work on business websites, landing pages, GoHighLevel automations, and our internal company portal.
+- **Verdant** — Founder & CTO since August 2026. We're building a CAD workspace for comparing materials, estimated carbon footprints, and costs.
+- **Amigo** — Head Developer on a language-learning prototype, starting with Bisaya/Cebuano lessons.
 
-### 📽️ Video Editing Portfolio
+## Selected projects
 
-🎞️ Want to see my work?<br>
-Check out the videos I've edited here:<br>
-👉 [Google Drive Video Portfolio](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hmes?usp=sharing)
+### Verdant
 
-</div>
+A startup exploring how software can help people make more informed material choices for CAD models. The workspace brings together material comparisons, carbon and cost estimates, and AI-assisted design ideas.
 
----
+**Recognition with the Verdant team in 2026:**
 
-## 🛠️ Tech Stack
+- Champion — IEEE Sumpai Hackathon, Philippines Regionals
+- Top 10 of 25 — IEEE Sumpai Hackathon, Asia international competition
+- Champion — Philippine Startup Challenge XI, Region 10
+- Top 9 — Philippine Startup Challenge XI, Nationals
 
-<div align="center">
+### [Amigo](https://github.com/lokeyyron/amigo-language-app)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<br>
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-<br>
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
+A mobile-first language-learning prototype with Bisaya/Cebuano lessons, recorded audio, and pronunciation practice. Built with **React, TypeScript, Vite, and AWS Amplify**. Authentication is connected; progress and social features are still prototype/local data.
 
-</div>
+[Try the demo](https://main.d22xlvblvnzppa.amplifyapp.com/) · [Explore the code](https://github.com/lokeyyron/amigo-language-app)
 
----
+### [Immanuel Philippines](https://github.com/lokeyyron/immanuel-philippines)
 
-## 💻 Languages Used
+A responsive church website and launch page built with **HTML, CSS, and JavaScript**, with deployment configured for **Vercel**.
 
-<div align="center">
+[Visit the website](https://immanuelphilippines.church) · [Explore the code](https://github.com/lokeyyron/immanuel-philippines)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeyyron&layout=compact&theme=radical&hide_border=true)](https://github.com/lokeyyron)
+## Tools I use
 
-</div>
+| Area | Tools |
+| --- | --- |
+| Web development | HTML, CSS, JavaScript, TypeScript, React, Vite |
+| Business websites & automation | GoHighLevel, WordPress |
+| Python projects | Python, Streamlit, Plotly, NumPy |
+| Hosting & collaboration | AWS Amplify, Vercel, GitHub |
+
+## A little more about me
+
+I started with WordPress websites and video editing at StreamSEO Pros before moving into full-stack development and automation. I also placed **Top 16 at Packethacks Hackathon 2025**.
+
+Outside my development projects, I still have a [video editing portfolio](https://drive.google.com/drive/folders/12BTraSBYB260lbWMUdtp-yASt-U6-hmes?usp=sharing).
+
+Want to talk about a project? [Connect with me on LinkedIn](https://www.linkedin.com/in/luke-aaron-velasquez-3ba080363/).
